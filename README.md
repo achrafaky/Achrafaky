@@ -1,16 +1,10 @@
 <div align="center">
+  <h3>🤖 Watch My AI Agent in Action</h3>
   
-  <a href="https://youtu.be/na_1Q8-Akw4" target="_blank">
-    <img src="assets/banner.png" width="100%" alt="Watch AI Agent Trailer" 
-         style="border-radius:15px; border: 2px solid #00FFC8; box-shadow: 0 0 25px rgba(0, 255, 200, 0.4);">
-  </a>
+  <video src="https://github.com/user-attachments/assets/c5797b1c-8943-44b8-b4b4-010dd64ec496" controls="controls" style="max-width: 100%;">
+  </video>
 
-  <br>
-
-  <a href="https://youtu.be/na_1Q8-Akw4" target="_blank">
-    <img src="https://img.shields.io/badge/▶_WATCH_FULL_DEMO_ON_YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video">
-  </a>
-
+  <p><em>(Vidéo hébergée nativement sur GitHub)</em></p>
 </div>
 
 <h1 align="center">Achraf Akiyaf</h1>
