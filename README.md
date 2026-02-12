@@ -2,7 +2,7 @@
 <div align="center">
 
 <video width="100%" autoplay loop muted playsinline style="border-radius:18px; box-shadow:0 0 40px rgba(0,255,200,0.6);">
-  <source src="Achraf_ia_agent.mp4" type="video/mp4">
+  <source src="assets/Achraf_ia_agent.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -12,7 +12,7 @@
 
 <!-- ===================== BACKGROUND BANNER ===================== -->
 <div align="center">
-  <img src="banner.png" width="100%" alt="Achraf Akiyaf Banner"/>
+  <img src="assets/banner.png" width="100%" alt="Achraf Akiyaf Banner"/>
 </div>
 
 <h1 align="center">Achraf Akiyaf</h1>
@@ -125,7 +125,7 @@ I am actively looking for **internships and projects** in:
 
 <!-- ===================== FUTURE AI IMAGE ===================== -->
 <div align="center">
-  <img src="cyber_punk.png" width="100%" alt="Future AI Robots"/>
+  <img src="assets/cyber_punk.png" width="100%" alt="Future AI Robots"/>
   <p><em>The future of AI is being built — I am part of it.</em></p>
 </div>
 
