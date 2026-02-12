@@ -7,28 +7,25 @@
   <p><em>(Vidéo hébergée nativement sur GitHub)</em></p>
 </div>
 
-<h1 align="center">Achraf Akiyaf</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=ACHRAF%20AKIYAF&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20%26%20Data%20Science&descAlignY=55&descAlign=60" width="100%" alt="Achraf Header" />
+</div>
+
 <h3 align="center">Future Data Scientist · Machine Learning Engineer · AI Systems Builder</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/achraf-akiyaf-b40286284/">
+  <a href="https://www.linkedin.com/in/achraf-akiyaf-b40286284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:akiyafachraf08@gmail.com">
+  
+  &nbsp; <a href="mailto:akiyafachraf08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Achraf Akiyaf Banner" style="border-radius: 10px;" />
-  
-  <h1>Achraf Akiyaf</h1>
-  <h3>Future Data Scientist & AI Systems Builder</h3>
-</div>
 
-  <a href="https://github.com/Achrafaky">
+  &nbsp; <a href="https://github.com/Achrafaky">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 > **“I am entering the world of Artificial Intelligence to build, learn, and create intelligent systems.”**
