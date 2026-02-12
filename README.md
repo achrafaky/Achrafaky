@@ -1,34 +1,42 @@
 <div align="center">
   <h3>🤖 Watch My AI Agent in Action</h3>
   
-  <video src="https://github.com/user-attachments/assets/c5797b1c-8943-44b8-b4b4-010dd64ec496" controls="controls" style="max-width: 100%;">
+  <video src="https://github.com/user-attachments/assets/c5797b1c-8943-44b8-b4b4-010dd64ec496" controls="controls" style="max-width: 100%; border-radius: 12px; box-shadow: 0 0 15px rgba(0, 255, 200, 0.3);">
   </video>
 
   <p><em>(Vidéo hébergée nativement sur GitHub)</em></p>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=ACHRAF%20AKIYAF&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20%26%20Data%20Science&descAlignY=55&descAlign=60" width="100%" alt="Achraf Header" />
+  <img src="assets/banner.png" width="100%" alt="Achraf Akiyaf Banner" style="border-radius: 10px; border: 1px solid #333;" />
+  
+  <h1 style="font-size: 2.5rem; margin-bottom: 0;">Achraf Akiyaf</h1>
+  <h3 style="margin-top: 0; font-weight: normal;">Future Data Scientist · Machine Learning Engineer · AI Systems Builder</h3>
 </div>
 
-<h3 align="center">Future Data Scientist · Machine Learning Engineer · AI Systems Builder</h3>
-
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/achraf-akiyaf-b40286284/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
-  
-  &nbsp; <a href="mailto:akiyafachraf08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  &nbsp; &nbsp; <a href="mailto:akiyafachraf08@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
+  &nbsp; &nbsp; <a href="https://github.com/Achrafaky">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+  </a>
+</div>
 
-  &nbsp; <a href="https://github.com/Achrafaky">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br>
+
 ---
 
-> **“I am entering the world of Artificial Intelligence to build, learn, and create intelligent systems.”**
+<div align="center">
+  <blockquote>
+    <b>“I am entering the world of Artificial Intelligence to build, learn, and create intelligent systems.”</b>
+  </blockquote>
+</div>
 
 ---
 
@@ -49,9 +57,7 @@ I am currently focused on **Machine Learning**, while preparing to dive deeper i
 
 ## 🧩 How I Think About AI
 
-I don’t see AI as magic.
-
-I see it as a **structured process**:
+I don’t see AI as magic. I see it as a **structured process**:
 
 1. Understand the data  
 2. Clean and structure information  
@@ -60,15 +66,7 @@ I see it as a **structured process**:
 5. Measure error and generalization  
 6. Transform predictions into decisions  
 
-**Data is information.  
-Models are approximations.  
-Intelligence is decision-making.**
-
----
-
-## 🧠 Learning Roadmap (My Future)
-
-I am committed to continuous learning and to contributing to impactful ML and AI projects.
+**Data is information. Models are approximations. Intelligence is decision-making.**
 
 ---
 
@@ -86,17 +84,17 @@ I am committed to continuous learning and to contributing to impactful ML and AI
 
 ## 🛠 Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,linux,git,sklearn,pandas,numpy,matplotlib&perline=5"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,linux,git,sklearn,pandas,numpy,matplotlib,vscode&perline=6&theme=dark"/>
+</div>
 
 ---
 
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achrafaky&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achrafaky&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Achrafaky&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achrafaky&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="160" alt="Languages" />
 </div>
 
 ---
@@ -110,15 +108,15 @@ I am actively looking for **internships and projects** in:
 - Artificial Intelligence  
 
 📧 **Email:** akiyafachraf08@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/achraf-akiyaf-b40286284/  
+🔗 **LinkedIn:** [Achraf Akiyaf](https://www.linkedin.com/in/achraf-akiyaf-b40286284/)
 
 ---
 
 <div align="center">
-  <img src="assets/cyber_punk.png" width="100%" alt="Future AI Robots"/>
+  <img src="assets/cyber_punk.png" width="100%" alt="Future AI Robots" style="border-radius: 10px; opacity: 0.9;"/>
   <p><em>The future of AI is being built — I am part of it.</em></p>
+  
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=Achrafaky&style=flat-square&color=00ffc8&label=PROFILE+VIEWS"/>
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Achrafaky&style=for-the-badge&color=9D4EDD"/>
-</p>
