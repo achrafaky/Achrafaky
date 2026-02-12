@@ -13,7 +13,7 @@
 <div align="center">
   <div style="border: 2px solid #ff0000; border-radius: 15px; padding: 5px; box-shadow: 0 0 30px rgba(255, 0, 0, 0.4); display: inline-block;">
     <video src="https://github.com/user-attachments/assets/c5797b1c-8943-44b8-b4b4-010dd64ec496" controls="controls" style="max-width: 100%; border-radius: 10px;">
-    </video>
+    </video>C:\Users\ASUS\OneDrive\Documents\Achrafaky\assets\ia_agent.png
   </div>
   <p><br><em>🤖 Watch My AI Agent in Action (Native GitHub Player)</em></p>
 </div>
