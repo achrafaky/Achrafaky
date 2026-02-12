@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,8a0000,ff0000&height=280&section=header&text=ACHRAF%20AKIYAF&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Achraf Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,003366,00aaff&height=280&section=header&text=ACHRAF%20AKIYAF&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Achraf Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Future+Data+Scientist;Machine+Learning+Engineer;AI+Systems+Builder;Building+the+Future+of+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00aaff&center=true&vCenter=true&width=500&lines=Future+Data+Scientist;Machine+Learning+Engineer;AI+Systems+Builder;Building+the+Future+of+AI" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <div style="border: 2px solid #ff0000; border-radius: 15px; padding: 5px; box-shadow: 0 0 30px rgba(255, 0, 0, 0.4); display: inline-block;">
+  <div style="border: 2px solid #00aaff; border-radius: 15px; padding: 5px; box-shadow: 0 0 30px rgba(0, 170, 255, 0.5); display: inline-block;">
     <video src="https://github.com/user-attachments/assets/c5797b1c-8943-44b8-b4b4-010dd64ec496" controls="controls" style="max-width: 100%; border-radius: 10px;">
     </video>
   </div>
@@ -20,15 +20,15 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/achraf-akiyaf-b40286284/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&borderColor=ff0000" height="35"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=00aaff" height="35"/>
   </a>
   &nbsp;
   <a href="mailto:akiyafachraf08@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-8a0000?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/GMAIL-0056b3?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
   &nbsp;
   <a href="https://github.com/Achrafaky">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=00aaff" height="35"/>
   </a>
 </div>
 
@@ -44,13 +44,13 @@
       <br><br>
       My journey is driven by <b>mathematics</b>, <b>curiosity</b>, and a strong desire to build <b>real-world intelligent systems</b>. I am currently focused on <b>Machine Learning</b>.
       <br><br>
-      🔴 <b>Strong mathematical foundation</b> (Linear Algebra, Probability)<br>
-      🔴 <b>Data Engineering:</b> Cleaning, Visualization, Feature Eng.<br>
-      🔴 <b>Machine Learning:</b> Decision Trees, Random Forest<br>
-      🔴 <b>Future Goal:</b> Deep Learning & Autonomous AI Agents
+      🔷 <b>Strong mathematical foundation</b> (Linear Algebra, Probability)<br>
+      🔷 <b>Data Engineering:</b> Cleaning, Visualization, Feature Eng.<br>
+      🔷 <b>Machine Learning:</b> Decision Trees, Random Forest<br>
+      🔷 <b>Future Goal:</b> Deep Learning & Autonomous AI Agents
     </td>
     <td width="40%" align="center">
-      <img src="assets/ia_agent.png" width="100%" alt="AI Agent Red" style="border-radius: 10px; border: 2px solid #ff0000; box-shadow: 0 0 20px rgba(255, 0, 0, 0.5);"/>
+      <img src="https://user-images.githubusercontent.com/73097560/124386356-f2057680-dce7-11eb-8708-21583e60a832.gif" width="100%" alt="AI Brain Blue" style="border-radius: 10px; border: 2px solid #00aaff; box-shadow: 0 0 20px rgba(0, 170, 255, 0.6);"/>
     </td>
   </tr>
 </table>
@@ -92,20 +92,18 @@ I don’t see AI as magic. I see it as a **structured process**:
 </div>
 
 <br>
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="opacity: 0.8; border-radius: 10px;"></div>
-<br>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achrafaky&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000" height="180" alt="Achraf's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achrafaky&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=0d1117&title_color=ff0000" height="180" alt="Achraf's Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Achrafaky&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=ffffff" height="180" alt="Achraf's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achrafaky&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=0d1117&title_color=00aaff" height="180" alt="Achraf's Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achrafaky&theme=radical&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&currStreakNum=ff0000" alt="Achraf's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achrafaky&theme=radical&hide_border=true&background=0d1117&ring=00aaff&fire=00aaff&currStreakNum=00aaff" alt="Achraf's Streak" />
 </div>
 
 ---
@@ -124,7 +122,7 @@ I am actively looking for **internships and projects** in:
 <br>
 
 <div align="center">
-  <img src="assets/cyber_punk.png" width="100%" alt="Cyberpunk Army" style="border-radius: 10px; opacity: 0.9; border: 1px solid #333;"/>
+  <img src="assets/cyber_punk.png" width="100%" alt="Cyberpunk Army" style="border-radius: 10px; opacity: 0.8; border: 1px solid #00aaff; box-shadow: 0 0 15px rgba(0, 170, 255, 0.3);"/>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Achrafaky&style=flat-square&color=ff0000&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Achrafaky&style=flat-square&color=00aaff&label=PROFILE+VIEWS"/>
 </div>
