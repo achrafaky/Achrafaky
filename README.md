@@ -1,44 +1,46 @@
-<div align="center">
-  <h3>🤖 Watch My AI Agent in Action</h3>
-  
-  <video src="https://github.com/user-attachments/assets/c5797b1c-8943-44b8-b4b4-010dd64ec496" controls="controls" style="max-width: 100%; border-radius: 12px; box-shadow: 0 0 15px rgba(0, 255, 200, 0.3);">
-  </video>
 
-  <p><em>(Vidéo hébergée nativement sur GitHub)</em></p>
+
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,8a0000,ff0000&height=280&section=header&text=ACHRAF%20AKIYAF&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Achraf Header" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Future+Data+Scientist;Machine+Learning+Engineer;AI+Systems+Builder;Building+the+Future+of+AI" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Achraf Akiyaf Banner" style="border-radius: 10px; border: 1px solid #333;" />
-  
-  <h1 style="font-size: 2.5rem; margin-bottom: 0;">Achraf Akiyaf</h1>
-  <h3 style="margin-top: 0; font-weight: normal;">Future Data Scientist · Machine Learning Engineer · AI Systems Builder</h3>
+  <div style="border: 2px solid #ff0000; border-radius: 15px; padding: 5px; box-shadow: 0 0 30px rgba(255, 0, 0, 0.4); display: inline-block;">
+    <video src="https://github.com/user-attachments/assets/c5797b1c-8943-44b8-b4b4-010dd64ec496" controls="controls" style="max-width: 100%; border-radius: 10px;">
+    </video>
+  </div>
+  <p><br><em>🤖 Watch My AI Agent in Action (Native GitHub Player)</em></p>
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/achraf-akiyaf-b40286284/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&borderColor=ff0000" height="35"/>
   </a>
-  &nbsp; &nbsp; <a href="mailto:akiyafachraf08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  &nbsp;
+  <a href="mailto:akiyafachraf08@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-8a0000?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
-  &nbsp; &nbsp; <a href="https://github.com/Achrafaky">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+  &nbsp;
+  <a href="https://github.com/Achrafaky">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" height="35"/>
   </a>
 </div>
 
 <br>
-
----
+<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
+<br>
 
 <div align="center">
-  <blockquote>
-    <b>“I am entering the world of Artificial Intelligence to build, learn, and create intelligent systems.”</b>
-  </blockquote>
+  <h3>❝ I am entering the world of Artificial Intelligence to build, learn, and create intelligent systems. ❞</h3>
 </div>
-
----
 
 ## 🧠 About Me
 
@@ -47,11 +49,11 @@ I am **Achraf Akiyaf**, a Master's student in **Mathematical Modeling & Data Sci
 My journey is driven by **mathematics**, **curiosity**, and a strong desire to build **real-world intelligent systems**.  
 I am currently focused on **Machine Learning**, while preparing to dive deeper into **Deep Learning and AI-driven projects**.
 
-- 🧮 Strong mathematical foundation (linear algebra, probability, optimization)
-- 📊 Data cleaning, visualization, and feature engineering
-- 🌳 Machine Learning: Decision Trees, Random Forest
-- 🧠 Preparing for Deep Learning (Neural Networks)
-- 🤖 Long-term goal: build autonomous AI agents and intelligent systems
+* 🔴 **Strong mathematical foundation** (linear algebra, probability, optimization)
+* 🔴 **Data cleaning, visualization**, and feature engineering
+* 🔴 **Machine Learning:** Decision Trees, Random Forest
+* 🔴 **Preparing for Deep Learning** (Neural Networks)
+* 🔴 **Long-term goal:** build autonomous AI agents and intelligent systems
 
 ---
 
@@ -59,26 +61,25 @@ I am currently focused on **Machine Learning**, while preparing to dive deeper i
 
 I don’t see AI as magic. I see it as a **structured process**:
 
-1. Understand the data  
-2. Clean and structure information  
-3. Engineer meaningful features  
-4. Train interpretable models  
-5. Measure error and generalization  
-6. Transform predictions into decisions  
+1.  **Understand the data** 📊
+2.  **Clean and structure information** 🧹
+3.  **Engineer meaningful features** ⚙️
+4.  **Train interpretable models** 🧠
+5.  **Measure error and generalization** 📉
+6.  **Transform predictions into decisions** 🚀
 
-**Data is information. Models are approximations. Intelligence is decision-making.**
+> **Data is information. Models are approximations. Intelligence is decision-making.**
 
 ---
 
 ## 🚀 Current & Future Projects
 
-- 🏡 **Housing Price Prediction** End-to-end ML project with EDA, feature engineering, and model evaluation.
-
-- ⚰️ **ML Graveyard** Documenting failed models to understand overfitting, underfitting, and errors.
-
-- 🤖 **AI Agent Experiments** *(coming soon)* Combining ML models with logic and decision systems.
-
-- 🧠 **Deep Learning Projects** *(future)* Neural networks for vision, data, and intelligent automation.
+| Project Type | Status | Description |
+| :--- | :---: | :--- |
+| 🏡 **Housing Price Prediction** | ✅ | End-to-end ML project with EDA, feature engineering, and model evaluation. |
+| ⚰️ **ML Graveyard** | 🚧 | Documenting failed models to understand overfitting, underfitting, and errors. |
+| 🤖 **AI Agent Experiments** | 🔜 | Combining ML models with logic and decision systems. |
+| 🧠 **Deep Learning Projects** | 🔮 | Neural networks for vision, data, and intelligent automation. |
 
 ---
 
@@ -88,13 +89,21 @@ I don’t see AI as magic. I see it as a **structured process**:
   <img src="https://skillicons.dev/icons?i=python,cpp,js,linux,git,sklearn,pandas,numpy,matplotlib,vscode&perline=6&theme=dark"/>
 </div>
 
----
+<br>
+<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
+<br>
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achrafaky&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achrafaky&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="160" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Achrafaky&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000" height="180" alt="Achraf's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achrafaky&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=0d1117&title_color=ff0000" height="180" alt="Achraf's Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achrafaky&theme=radical&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&currStreakNum=ff0000" alt="Achraf's Streak" />
 </div>
 
 ---
@@ -103,20 +112,14 @@ I don’t see AI as magic. I see it as a **structured process**:
 
 I am actively looking for **internships and projects** in:
 
-- Data Science  
-- Machine Learning  
-- Artificial Intelligence  
+* **Data Science**
+* **Machine Learning**
+* **Artificial Intelligence**
 
 📧 **Email:** akiyafachraf08@gmail.com  
 🔗 **LinkedIn:** [Achraf Akiyaf](https://www.linkedin.com/in/achraf-akiyaf-b40286284/)
 
----
-
 <div align="center">
-  <img src="assets/cyber_punk.png" width="100%" alt="Future AI Robots" style="border-radius: 10px; opacity: 0.9;"/>
-  <p><em>The future of AI is being built — I am part of it.</em></p>
-  
   <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=Achrafaky&style=flat-square&color=00ffc8&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Achrafaky&style=flat-square&color=ff0000&label=PROFILE+VIEWS"/>
 </div>
