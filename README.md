@@ -1,18 +1,16 @@
-<!-- ===================== AI VIDEO INTRO ===================== -->
 <div align="center">
+  
+  <a href="https://youtu.be/na_1Q8-Akw4" target="_blank">
+    <img src="assets/banner.png" width="100%" alt="Watch AI Agent Trailer" 
+         style="border-radius:15px; border: 2px solid #00FFC8; box-shadow: 0 0 25px rgba(0, 255, 200, 0.4);">
+  </a>
 
-<video width="100%" autoplay loop muted playsinline style="border-radius:18px; box-shadow:0 0 40px rgba(0,255,200,0.6);">
-  <source src="assets/Achraf_ia_agent.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+  <br>
 
-</div>
+  <a href="https://youtu.be/na_1Q8-Akw4" target="_blank">
+    <img src="https://img.shields.io/badge/▶_WATCH_FULL_DEMO_ON_YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video">
+  </a>
 
----
-
-<!-- ===================== BACKGROUND BANNER ===================== -->
-<div align="center">
-  <img src="assets/banner.png" width="100%" alt="Achraf Akiyaf Banner"/>
 </div>
 
 <h1 align="center">Achraf Akiyaf</h1>
@@ -72,24 +70,19 @@ Intelligence is decision-making.**
 
 ## 🧠 Learning Roadmap (My Future)
 
-
 I am committed to continuous learning and to contributing to impactful ML and AI projects.
 
 ---
 
 ## 🚀 Current & Future Projects
 
-- 🏡 **Housing Price Prediction**  
-  End-to-end ML project with EDA, feature engineering, and model evaluation.
+- 🏡 **Housing Price Prediction** End-to-end ML project with EDA, feature engineering, and model evaluation.
 
-- ⚰️ **ML Graveyard**  
-  Documenting failed models to understand overfitting, underfitting, and errors.
+- ⚰️ **ML Graveyard** Documenting failed models to understand overfitting, underfitting, and errors.
 
-- 🤖 **AI Agent Experiments** *(coming soon)*  
-  Combining ML models with logic and decision systems.
+- 🤖 **AI Agent Experiments** *(coming soon)* Combining ML models with logic and decision systems.
 
-- 🧠 **Deep Learning Projects** *(future)*  
-  Neural networks for vision, data, and intelligent automation.
+- 🧠 **Deep Learning Projects** *(future)* Neural networks for vision, data, and intelligent automation.
 
 ---
 
@@ -123,7 +116,6 @@ I am actively looking for **internships and projects** in:
 
 ---
 
-<!-- ===================== FUTURE AI IMAGE ===================== -->
 <div align="center">
   <img src="assets/cyber_punk.png" width="100%" alt="Future AI Robots"/>
   <p><em>The future of AI is being built — I am part of it.</em></p>
