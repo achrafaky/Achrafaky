@@ -1,8 +1,13 @@
 <div align="center">
 
-[![Watch the video](https://img.youtube.com/vi/aircAruvnKk/maxresdefault.jpg)](https://www.youtube.com/watch?v=aircAruvnKk)
+<h2>🚀 Exploring Artificial Intelligence & Machine Learning</h2>
+
+[![AI Video](https://img.youtube.com/vi/aircAruvnKk/maxresdefault.jpg)](https://www.youtube.com/watch?v=aircAruvnKk)
+
+<p><strong>Click to watch the future of AI</strong></p>
 
 </div>
+
 
 
 <h1 align="center">Achraf Akiyaf</h1>
