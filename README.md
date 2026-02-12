@@ -1,122 +1,134 @@
+<!-- ===================== AI VIDEO INTRO ===================== -->
 <div align="center">
 
-<h2>🚀 Exploring Artificial Intelligence & Machine Learning</h2>
-
-[![AI Video](https://img.youtube.com/vi/aircAruvnKk/maxresdefault.jpg)](https://www.youtube.com/watch?v=aircAruvnKk)
-
-<p><strong>Click to watch the future of AI</strong></p>
+<video width="100%" autoplay loop muted playsinline style="border-radius:18px; box-shadow:0 0 40px rgba(0,255,200,0.6);">
+  <source src="Achraf_ia_agent.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 </div>
 
+---
 
+<!-- ===================== BACKGROUND BANNER ===================== -->
+<div align="center">
+  <img src="banner.png" width="100%" alt="Achraf Akiyaf Banner"/>
+</div>
 
 <h1 align="center">Achraf Akiyaf</h1>
-<h3 align="center">Future Data Scientist · Machine Learning Engineer · Math-Driven AI</h3>
+<h3 align="center">Future Data Scientist · Machine Learning Engineer · AI Systems Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/achraf-akiyaf-b40286284/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:akiyafachraf19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:akiyafachraf08@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Achrafaky">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👋 About Me
-
-I am **Achraf Akiyaf**, a Master’s student in **Mathematical Modeling & Data Science** with a strong background in **applied mathematics and cryptography**.
-
-My objective is to become a **Data Scientist / Machine Learning Engineer** capable of designing **reliable, interpretable, and mathematically grounded AI systems**.
-
-I focus on understanding **why models work**, not just how to use them.
+> **“I am entering the world of Artificial Intelligence to build, learn, and create intelligent systems.”**
 
 ---
 
-## 🧠 How I Think About Data & ML
+## 🧠 About Me
 
-I treat Machine Learning as an extension of mathematics and statistics:
+I am **Achraf Akiyaf**, a Master's student in **Mathematical Modeling & Data Science**.
 
-1. Understand the data generating process  
-2. Clean and structure the data  
+My journey is driven by **mathematics**, **curiosity**, and a strong desire to build **real-world intelligent systems**.  
+I am currently focused on **Machine Learning**, while preparing to dive deeper into **Deep Learning and AI-driven projects**.
+
+- 🧮 Strong mathematical foundation (linear algebra, probability, optimization)
+- 📊 Data cleaning, visualization, and feature engineering
+- 🌳 Machine Learning: Decision Trees, Random Forest
+- 🧠 Preparing for Deep Learning (Neural Networks)
+- 🤖 Long-term goal: build autonomous AI agents and intelligent systems
+
+---
+
+## 🧩 How I Think About AI
+
+I don’t see AI as magic.
+
+I see it as a **structured process**:
+
+1. Understand the data  
+2. Clean and structure information  
 3. Engineer meaningful features  
 4. Train interpretable models  
-5. Evaluate generalization error  
-6. Improve decisions, not only predictions  
+5. Measure error and generalization  
+6. Transform predictions into decisions  
 
-> Data is signal.  
-> Models are approximations.  
-> Intelligence is structured decision-making.
-
----
-
-## 🧮 Mathematical Perspective
-
-Most ML problems can be summarized as:
-
-minimize  L(y, ŷ)  
-subject to  ŷ = f(X; θ)
-
-But true value comes from:
-- error analysis  
-- bias–variance tradeoff  
-- model interpretability  
+**Data is information.  
+Models are approximations.  
+Intelligence is decision-making.**
 
 ---
 
-## 🔬 Core Skills
+## 🧠 Learning Roadmap (My Future)
 
-- **Mathematics**: Linear Algebra, Probability, Optimization  
-- **Data Science**: Data Cleaning, EDA, Visualization  
-- **Machine Learning**: Decision Trees, Random Forests  
-- **Evaluation**: MAE, Cross-Validation  
-- **Programming**: Python, Pandas, NumPy, scikit-learn  
-- **Tools**: Git, Linux, Jupyter  
+
+I am committed to continuous learning and to contributing to impactful ML and AI projects.
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Current & Future Projects
 
 - 🏡 **Housing Price Prediction**  
-  End-to-end ML pipeline from raw data to evaluated model.
+  End-to-end ML project with EDA, feature engineering, and model evaluation.
 
 - ⚰️ **ML Graveyard**  
-  Documented failures: overfitting, underfitting, and lessons learned.
+  Documenting failed models to understand overfitting, underfitting, and errors.
 
-- 🤖 **AI Agent Playground** *(in progress)*  
-  Exploring decision-based agents built on ML models.
+- 🤖 **AI Agent Experiments** *(coming soon)*  
+  Combining ML models with logic and decision systems.
 
-- 🔐 **Cryptography Research**  
-  Academic work on invariant-based cryptosystems.
+- 🧠 **Deep Learning Projects** *(future)*  
+  Neural networks for vision, data, and intelligent automation.
+
+---
+
+## 🛠 Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,linux,git,sklearn,pandas,numpy,matplotlib&perline=5"/>
+</p>
 
 ---
 
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achrafaky&show_icons=true&theme=radical&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achrafaky&layout=compact&theme=radical&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Achrafaky&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achrafaky&layout=compact&theme=radical&hide_border=true" height="170"/>
 </div>
 
 ---
 
 ## 📫 Contact & Opportunities
 
-I am actively seeking **internship opportunities** in:
+I am actively looking for **internships and projects** in:
+
 - Data Science  
 - Machine Learning  
+- Artificial Intelligence  
 
-📧 Email: **akiyafachraf19@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/achraf-akiyaf-b40286284/  
+📧 **Email:** akiyafachraf08@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/achraf-akiyaf-b40286284/  
 
 ---
 
+<!-- ===================== FUTURE AI IMAGE ===================== -->
 <div align="center">
-  <img src="assets/glitch-footer.gif" width="100%">
+  <img src="cyber_punk.png" width="100%" alt="Future AI Robots"/>
+  <p><em>The future of AI is being built — I am part of it.</em></p>
 </div>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Achrafaky&style=for-the-badge&color=9D4EDD"/>
+</p>
