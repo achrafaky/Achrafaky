@@ -18,8 +18,12 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=ACHRAF%20AKIYAF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Agent%20%26%20Data%20Science&descAlignY=51&descAlign=62" width="100%" alt="Achraf Header" />
+  <img src="assets/banner.png" width="100%" alt="Achraf Akiyaf Banner" style="border-radius: 10px;" />
+  
+  <h1>Achraf Akiyaf</h1>
+  <h3>Future Data Scientist & AI Systems Builder</h3>
 </div>
+
   <a href="https://github.com/Achrafaky">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
