@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Achraf Akiyaf Banner">
+
+[![Watch the video](https://img.youtube.com/vi/aircAruvnKk/maxresdefault.jpg)](https://www.youtube.com/watch?v=aircAruvnKk)
+
 </div>
+
 
 <h1 align="center">Achraf Akiyaf</h1>
 <h3 align="center">Future Data Scientist · Machine Learning Engineer · Math-Driven AI</h3>
