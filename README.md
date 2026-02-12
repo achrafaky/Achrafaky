@@ -1,6 +1,4 @@
-
-
- <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,8a0000,ff0000&height=280&section=header&text=ACHRAF%20AKIYAF&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Achraf Header" />
 
   <a href="https://git.io/typing-svg">
@@ -13,7 +11,7 @@
 <div align="center">
   <div style="border: 2px solid #ff0000; border-radius: 15px; padding: 5px; box-shadow: 0 0 30px rgba(255, 0, 0, 0.4); display: inline-block;">
     <video src="https://github.com/user-attachments/assets/c5797b1c-8943-44b8-b4b4-010dd64ec496" controls="controls" style="max-width: 100%; border-radius: 10px;">
-    </video>C:\Users\ASUS\OneDrive\Documents\Achrafaky\assets\ia_agent.png
+    </video>
   </div>
   <p><br><em>🤖 Watch My AI Agent in Action (Native GitHub Player)</em></p>
 </div>
@@ -35,25 +33,31 @@
 </div>
 
 <br>
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
-<br>
-
-<div align="center">
-  <h3>❝ I am entering the world of Artificial Intelligence to build, learn, and create intelligent systems. ❞</h3>
-</div>
 
 ## 🧠 About Me
 
-I am **Achraf Akiyaf**, a Master's student in **Mathematical Modeling & Data Science**.
+<table>
+  <tr>
+    <td width="60%">
+      <br>
+      I am <b>Achraf Akiyaf</b>, a Master's student in <b>Mathematical Modeling & Data Science</b>.
+      <br><br>
+      My journey is driven by <b>mathematics</b>, <b>curiosity</b>, and a strong desire to build <b>real-world intelligent systems</b>. I am currently focused on <b>Machine Learning</b>.
+      <br><br>
+      🔴 <b>Strong mathematical foundation</b> (Linear Algebra, Probability)<br>
+      🔴 <b>Data Engineering:</b> Cleaning, Visualization, Feature Eng.<br>
+      🔴 <b>Machine Learning:</b> Decision Trees, Random Forest<br>
+      🔴 <b>Future Goal:</b> Deep Learning & Autonomous AI Agents
+    </td>
+    <td width="40%" align="center">
+      <img src="assets/ia_agent.png" width="100%" alt="AI Agent Red" style="border-radius: 10px; border: 2px solid #ff0000; box-shadow: 0 0 20px rgba(255, 0, 0, 0.5);"/>
+    </td>
+  </tr>
+</table>
 
-My journey is driven by **mathematics**, **curiosity**, and a strong desire to build **real-world intelligent systems**.  
-I am currently focused on **Machine Learning**, while preparing to dive deeper into **Deep Learning and AI-driven projects**.
-
-* 🔴 **Strong mathematical foundation** (linear algebra, probability, optimization)
-* 🔴 **Data cleaning, visualization**, and feature engineering
-* 🔴 **Machine Learning:** Decision Trees, Random Forest
-* 🔴 **Preparing for Deep Learning** (Neural Networks)
-* 🔴 **Long-term goal:** build autonomous AI agents and intelligent systems
+<div align="center">
+  <h3>❝ Data is information. Models are approximations. Intelligence is decision-making. ❞</h3>
+</div>
 
 ---
 
@@ -67,8 +71,6 @@ I don’t see AI as magic. I see it as a **structured process**:
 4.  **Train interpretable models** 🧠
 5.  **Measure error and generalization** 📉
 6.  **Transform predictions into decisions** 🚀
-
-> **Data is information. Models are approximations. Intelligence is decision-making.**
 
 ---
 
@@ -90,7 +92,7 @@ I don’t see AI as magic. I see it as a **structured process**:
 </div>
 
 <br>
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="opacity: 0.8; border-radius: 10px;"></div>
 <br>
 
 ## 📊 GitHub Analytics
@@ -119,7 +121,10 @@ I am actively looking for **internships and projects** in:
 📧 **Email:** akiyafachraf08@gmail.com  
 🔗 **LinkedIn:** [Achraf Akiyaf](https://www.linkedin.com/in/achraf-akiyaf-b40286284/)
 
+<br>
+
 <div align="center">
-  <br>
+  <img src="assets/cyber_punk.png" width="100%" alt="Cyberpunk Army" style="border-radius: 10px; opacity: 0.9; border: 1px solid #333;"/>
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=Achrafaky&style=flat-square&color=ff0000&label=PROFILE+VIEWS"/>
 </div>
