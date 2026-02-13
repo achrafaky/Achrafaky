@@ -4,7 +4,7 @@
   <br>
   
   <a href="https://git.io/typing-svg">
-
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Systems;Decoding+Mathematics+of+Deep+Learning;Crafting+The+Future+of+Data" alt="Typing SVG" />
   </a>
 </div>
 
@@ -94,6 +94,3 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,scikit-learn,pandas,numpy,docker,git,linux,vscode,bash&perline=6&theme=dark" />
 </div>
-
-<br>
-<div
